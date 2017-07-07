@@ -8,4 +8,4 @@
 // do `./index.js`
 
 // you'll need to require node's built-in `http` module
-// which has a method calld `createServer`
+// which has a method called `createServer`
